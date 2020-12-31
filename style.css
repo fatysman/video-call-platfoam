@@ -1,0 +1,29 @@
+*{
+    font-family: sans-serif;
+    color: #fff;
+}
+h1,h4{
+    text-align: center;
+
+}
+#me{
+    position: relative;
+    width: 30%;
+    height: 30%;
+    margin: 0 auto;
+    display: block;
+}
+.icons{
+    width: 5%;
+    height: 5%;
+}
+#me video{
+    position: relative !important;
+}
+#remote-container{
+    display: flex;
+}
+#remote-container video{
+    height: auto;
+    position: relative !important;
+}
